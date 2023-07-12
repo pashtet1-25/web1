@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.gallery img {
+    width: 100%;
+    max-width: 300px;
+}
+
+#lead-form {
+    margin-top: 20px;
+}
